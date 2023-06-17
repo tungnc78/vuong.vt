@@ -1,2 +1,2 @@
-# vuong.vt
+vuong.vt
 maccount@microsoft.com
